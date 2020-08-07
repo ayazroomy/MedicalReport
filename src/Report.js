@@ -72,6 +72,7 @@ export class Report extends React.Component {
             <div className="col-2">Women : 12.0 - 15.0</div>
           </div>
         </section>
+        <footer class='row'>No:1</footer>
       </page>
     );
   }
